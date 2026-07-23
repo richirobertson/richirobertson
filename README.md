@@ -8,7 +8,7 @@ I build test systems that provide useful evidence about contracts, data quality,
 
 ### [API Test Realm](https://github.com/richirobertson/api-test-realm)
 
-A practical API-testing showcase built with Jest and Supertest. It demonstrates deterministic mocked checks, deliberate live integration tests, consumer-focused contracts, schema validation, negative and boundary testing, CI evidence, Docker, and security-aware automation.
+A portfolio of practical API-testing examples built with Node.js and Jest. The PokéAPI and Open-Meteo projects pair focused command-line tools with deterministic mocked tests, deliberate live integration checks, consumer-centred contracts, schema and data-quality validation, actionable CI evidence, Docker, and CodeQL security scanning.
 
 ## Current focus
 
