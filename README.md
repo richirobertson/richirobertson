@@ -1,6 +1,6 @@
 # Rich Robertson
 
-**Senior Test Engineer working across API and data platforms.**
+**Senior Test Engineer working across API and Data platforms.**
 
 I build test systems that provide useful evidence about contracts, data quality, integration risk, and production reliability. My focus is on testing strategies that give teams fast feedback while preserving confidence in real integrations.
 
